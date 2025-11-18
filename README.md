@@ -15,7 +15,7 @@
 
 ## 🔒 Security Note
 
-This provides good isolation for testing and experimentation, but is **not a maximum-security sandbox**. The VM has network access and shares the display server. Suitable for testing unknown software and preventing accidental host damage, but not recommended for analyzing malicious code.
+This provides good isolation for testing and quick Dev experimentation, but is **not a maximum-security sandbox**. The VM has network access and shares the display server. Suitable for testing unknown software and preventing accidental host damage, but not recommended for analyzing malicious code.
 
 ## 📦 Installation
 
